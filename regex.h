@@ -1,3 +1,8 @@
+// Copyright (c) 2018 Alex Rowley
+// Distributed under the MIT software license
+// http://www.opensource.org/licenses/mit-license.php.
+
+
 #ifndef REGEX_INCL_H
 #define REGEX_INCL_H
 

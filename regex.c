@@ -1,3 +1,7 @@
+// Copyright (c) 2018 Alex Rowley
+// Distributed under the MIT software license
+// http://www.opensource.org/licenses/mit-license.php.
+
 #include "regex.h"
 
 int Mode = 0;
